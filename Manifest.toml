@@ -5,7 +5,7 @@ manifest_format = "2.0"
 
 [[deps.upstream]]
 git-tree-sha1 = "37658c76ae2800b897f78a38d433cd4aa4bdb7f4"
-repo-rev = "main"
+repo-rev = "c5d7d9d"
 repo-url = "https://github.com/aaronpeikert/upstream.jl.git"
 uuid = "dfa7368c-5b78-4bda-9dde-69676b7aee7c"
 version = "0.1.0"
