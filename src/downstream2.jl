@@ -1,5 +1,5 @@
 module downstream2
-
-# Write your package code here.
-
+    export triple
+    import upstream.add
+    triple(x) = add(x, add(x, x))
 end

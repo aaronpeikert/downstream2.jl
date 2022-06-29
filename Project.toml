@@ -3,6 +3,9 @@ uuid = "4a37de67-13e7-4c3e-bdb6-c307718e11fa"
 authors = ["Aaron Peikert", "Maximilian S. Ernst"]
 version = "0.1.0"
 
+[deps]
+upstream = "dfa7368c-5b78-4bda-9dde-69676b7aee7c"
+
 [compat]
 julia = "1.2"
 

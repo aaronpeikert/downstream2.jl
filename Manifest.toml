@@ -1,0 +1,11 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.7.2"
+manifest_format = "2.0"
+
+[[deps.upstream]]
+git-tree-sha1 = "37658c76ae2800b897f78a38d433cd4aa4bdb7f4"
+repo-rev = "main"
+repo-url = "https://github.com/aaronpeikert/upstream.jl.git"
+uuid = "dfa7368c-5b78-4bda-9dde-69676b7aee7c"
+version = "0.1.0"
